@@ -24,6 +24,7 @@ setTimeout(function () {
 }, 500);
 ```
 
+#### Output:
 ```
 [timer] Timer #1 started
 [timer>] Timer #1 > Check point #1: 505 ms  | [timeline]: 505 ms
