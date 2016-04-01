@@ -1,5 +1,6 @@
 # plus.timer 
 The simplest timer for debug
+`npm install plus.timer --save`
 
 #### Example:
 
