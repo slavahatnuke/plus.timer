@@ -1,0 +1,26 @@
+{
+  "name": "plus.timer",
+  "version": "1.0.0",
+  "description": "The simplest timer for debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js && echo [ok]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavahatnuke/plus.timer.git"
+  },
+  "keywords": [
+    "timer",
+    "debug"
+  ],
+  "author": "slava hatnuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavahatnuke/plus.timer/issues"
+  },
+  "homepage": "https://github.com/slavahatnuke/plus.timer#readme",
+  "dependencies": {
+    "simple-timer": "0.0.5"
+  }
+}
